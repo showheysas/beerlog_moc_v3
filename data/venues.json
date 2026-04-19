@@ -1,52 +1,69 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-19T21:00:00+09:00",
-    "source": "https://tabelog.com/tieup/main/sapporo-perfect",
-    "description": "サッポロビール パーフェクト黒ラベル提供店（受賞店）リスト。手動更新。",
+    "lastUpdated": "2026-04-19T22:30:00+09:00",
+    "source": "https://tabelog.com/tieup/rst_list/sapporo-perfect",
+    "description": "サッポロビール ザ・パーフェクト黒ラベル AWARD 2025 受賞店リスト。食べログ特集ページから手動転記。",
     "updatedBy": "showheysas"
   },
   "venues": [
     {
-      "id": "sample-001",
-      "name": "【サンプル】銀座ライオン",
+      "id": "perfect-001",
+      "name": "談志",
       "beerBrand": "パーフェクト黒ラベル",
-      "rating": 4.5,
-      "location": { "lat": 35.6717, "lng": 139.7636 },
-      "visited": false,
-      "storeImage": "assets/images/building_food_steak.png",
-      "storePhotos": [
-        "assets/images/building_food_steak.png",
-        "assets/images/shop_ninki.png"
-      ],
-      "address": "東京都中央区銀座3-3-3",
-      "openHours": "11:30〜22:00",
-      "tabelogUrl": "https://tabelog.com/example/3",
-      "award": "2025年度 パーフェクト黒ラベル受賞店",
-      "photos": [
-        {
-          "imagePath": "assets/images/craft_glass.png",
-          "date": "2026-03-01",
-          "comment": "老舗の雰囲気が最高。ビールも完璧",
-          "posterName": "たろう",
-          "posterAvatar": "assets/images/beer_man.png"
-        }
-      ]
-    },
-    {
-      "id": "sample-002",
-      "name": "【サンプル】酒場 腹黒ラベル",
-      "beerBrand": "パーフェクト黒ラベル",
-      "rating": 4.0,
-      "location": { "lat": 35.6812, "lng": 139.7671 },
+      "rating": 3.60,
+      "location": { "lat": 31.911453, "lng": 131.421336 },
       "visited": false,
       "storeImage": "assets/images/tatemono_izakaya.png",
-      "storePhotos": [
-        "assets/images/tatemono_izakaya.png"
-      ],
-      "address": "東京都千代田区丸の内1-1-1",
-      "openHours": "17:00〜23:00",
-      "tabelogUrl": "https://tabelog.com/example/1",
-      "award": "2024年度 優秀店",
+      "storePhotos": [],
+      "address": "宮崎県宮崎市橘通西2-3-14",
+      "openHours": "15:00〜03:00（不定休）",
+      "tabelogUrl": "https://tabelog.com/miyazaki/A4501/A450101/45010665/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-002",
+      "name": "大衆バル HAUNT",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.11,
+      "location": { "lat": 35.607917, "lng": 140.120473 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "千葉県千葉市中央区中央3-18-3",
+      "openHours": "17:00〜24:00（日・第3月曜休）",
+      "tabelogUrl": "https://tabelog.com/chiba/A1201/A120101/12046829/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-003",
+      "name": "天ぷらと日本酒 明日源",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.42,
+      "location": { "lat": 35.167867, "lng": 136.89848 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "愛知県名古屋市中区栄2-1-12 ダイアパレス伏見 B1F",
+      "openHours": "月-木 16:00〜23:00 / 金土祝前 16:00〜24:00（日休）",
+      "tabelogUrl": "https://tabelog.com/aichi/A2301/A230102/23058323/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-004",
+      "name": "焼とり かい華",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.23,
+      "location": { "lat": 33.76712, "lng": 130.490246 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "福岡県福津市中央1-2-3-2",
+      "openHours": "月-土 17:00〜23:00 / 日祝 17:00〜22:00（不定休）",
+      "tabelogUrl": "https://tabelog.com/fukuoka/A4003/A400302/40062846/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
       "photos": []
     }
   ]
