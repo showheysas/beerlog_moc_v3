@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-20T01:30:00+09:00",
+    "lastUpdated": "2026-04-20T02:00:00+09:00",
     "source": "https://tabelog.com/tieup/rst_list/sapporo-perfect",
     "description": "サッポロビール ザ・パーフェクト黒ラベル AWARD 2025 受賞店リスト。食べログ特集ページから手動転記。",
     "updatedBy": "showheysas"
@@ -693,6 +693,66 @@
       "address": "栃木県大田原市中央1-7-12",
       "openHours": "月水木金 18:00〜23:00 / 土日 17:00〜23:00（火休）",
       "tabelogUrl": "https://tabelog.com/tochigi/A0905/A090501/9016508/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-047",
+      "name": "アル・デンシャル丸の内 グランスタ東京店",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.48,
+      "location": { "lat": 35.682111, "lng": 139.769159 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "東京都千代田区丸の内1-9-1 グランスタ東京 1F",
+      "openHours": "月-木土 10:00〜22:00 / 金 10:00〜22:30 / 日祝 10:00〜21:30",
+      "tabelogUrl": "https://tabelog.com/tokyo/A1302/A130201/13249442/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-048",
+      "name": "廻船酒蔵 ベッチャーの胃ぶくろ",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.37,
+      "location": { "lat": 34.409629, "lng": 133.203362 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "広島県尾道市十四日元町5-9",
+      "openHours": "月水木金土日 17:00〜22:00（火休）",
+      "tabelogUrl": "https://tabelog.com/hiroshima/A3406/A340302/34001070/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-049",
+      "name": "鶏と魚と炭火焼き 燈",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.58,
+      "location": { "lat": 35.660433, "lng": 139.667593 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "東京都世田谷区北沢2-13-4 第2伊奈ビル 1F",
+      "openHours": "月-金 16:00〜00:00 / 土 14:00〜00:00 / 日祝 14:00〜23:00（不定休）",
+      "tabelogUrl": "https://tabelog.com/tokyo/A1318/A131802/13237179/",
+      "award": "THE PERFECT 黒ラベル AWARD 2025",
+      "photos": []
+    },
+    {
+      "id": "perfect-050",
+      "name": "かこみ",
+      "beerBrand": "パーフェクト黒ラベル",
+      "rating": 3.37,
+      "location": { "lat": 36.000704, "lng": 138.131877 },
+      "visited": false,
+      "storeImage": "assets/images/tatemono_izakaya.png",
+      "storePhotos": [],
+      "address": "長野県諏訪市南町13-2",
+      "openHours": "火-土 11:30〜14:00, 17:30〜23:00 / 日 11:30〜14:00, 17:30〜22:00（月休）",
+      "tabelogUrl": "https://tabelog.com/nagano/A2004/A200403/20012119/",
       "award": "THE PERFECT 黒ラベル AWARD 2025",
       "photos": []
     }
