@@ -48671,7 +48671,7 @@ var $async$nZ=A.r(function(a,b){if(a===1){o.push(b)
 s=p}for(;;)switch(s){case 0:j=n.a
 if(j!=null){q=j
 s=1
-break}m=null
+break}m="https://showheysas.github.io/beerlog_moc_v3/data/venues.json"
 s=m!=null?3:4
 break
 case 3:p=6
